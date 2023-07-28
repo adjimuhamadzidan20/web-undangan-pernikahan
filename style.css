@@ -62,7 +62,7 @@ body {
 	height: 100vh;
 }*/
 
-.navbar-brand, .offcanvas-title {
+.navbar-brand {
 	font-family: 'Sacramento', cursive;
 	font-size: 1.5rem;
 	font-weight: bold;
